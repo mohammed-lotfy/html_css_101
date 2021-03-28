@@ -1,0 +1,30 @@
+body {
+  background-color: #222;
+  font-family: verdana, sans-serif;
+}
+
+.container {
+  width: 450px;
+  min-height: 300px;
+  margin: 50px auto;
+  padding: 100px;
+  background-color: #fff;
+  border-radius: 15px;
+}
+
+.bottom {
+  width: 200px;
+  text-align: center;
+  margin: 100px auto 0 auto;
+  font-size: 0.8em;
+}
+
+h1 {
+  font-size: 60px;
+  margin-bottom: 1em;
+}
+
+p {
+  line-height: 1.7em;
+  text-align: justify;
+}
